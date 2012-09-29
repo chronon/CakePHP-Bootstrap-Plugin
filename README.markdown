@@ -28,7 +28,7 @@ In your layout:
 <?php
 echo $this->Html->css(array(
 	'Bootstrap.bootstrap.min.css',
-	'Bootstrap.bootstrap-responsive.min.css
+	'Bootstrap.bootstrap-responsive.min.css'
 )); 
 ```
 
