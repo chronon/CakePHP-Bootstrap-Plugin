@@ -8,7 +8,7 @@ Installation:
 
 ```sh
 git clone git@github.com:chronon/CakePHP-Bootstrap-Plugin.git APP/Plugin/Bootstrap
-``
+```
 
 Usage:
 -----
