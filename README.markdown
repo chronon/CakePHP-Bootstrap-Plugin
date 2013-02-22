@@ -35,7 +35,7 @@ echo $this->Html->css(array(
 ```php
 <?php
 echo $this->Html->script(array(
-	'//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js',
+	'//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js',
 	'Bootstrap.bootstrap.min.js'
 ));
 ```
