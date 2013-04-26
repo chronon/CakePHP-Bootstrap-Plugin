@@ -6,6 +6,22 @@ Twitter Bootstrap packaged as a plugin.
 Installation:
 -------------
 
+**Using [Composer](http://getcomposer.org/)/[Packagist](https://packagist.org):**
+
+In your project `composer.json` file:
+
+```
+{
+	"require": {
+		"chronon/bootstrap": "*"
+	}
+}
+```
+
+This will install the plugin into `Plugin/Bootstrap`.
+
+**Using git:**
+
 ```sh
 git clone git@github.com:chronon/CakePHP-Bootstrap-Plugin.git APP/Plugin/Bootstrap
 ```

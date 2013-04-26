@@ -1,0 +1,21 @@
+{
+    "name": "chronon/bootstrap",
+	"type": "cakephp-plugin",
+	"description": "Twitter Bootstrap packaged as a CakePHP plugin.",
+    "keywords": ["cakephp", "bootstrap", "plugin"]
+	"homepage": "https://github.com/chronon/CakePHP-Bootstrap-Plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gregory Gaskill",
+            "email": "one@chronon.com",
+			"homepage": "http://technokracy.net",
+			"role": "Developer"
+        }
+    ],
+    "require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+    }
+}
+
