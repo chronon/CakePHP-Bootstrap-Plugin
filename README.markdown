@@ -1,6 +1,8 @@
 CakePHP Twitter Bootstrap Plugin
 ================================
 
+**DEPRECATION NOTICE:** This CakePHP 2.x plugin is deprecated and will most likely not be updated.
+
 Twitter Bootstrap packaged as a plugin. 
 
 Installation:
